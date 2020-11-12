@@ -1,0 +1,28 @@
+{
+  "name": "fourinarow-lib",
+  "version": "1.0.0",
+  "description": "Four in a Row library written in node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WonderJ13/fourinarow-lib.git"
+  },
+  "keywords": [
+    "fourinarow",
+    "four",
+    "4",
+    "in",
+    "a",
+    "row",
+    "connect"
+  ],
+  "author": "WonderJ13",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WonderJ13/fourinarow-lib/issues"
+  },
+  "homepage": "https://github.com/WonderJ13/fourinarow-lib#readme"
+}
